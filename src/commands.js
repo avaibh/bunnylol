@@ -90,8 +90,13 @@ export const COMMANDS: {[CommandNames] : CommandType} = {
     },
     tw: {
         name: "Twitter",
-        url: "https://twitter.com/",
-        searchurl: "https://twitter.com/search?q="
+        url: "https://x.com/",
+        searchurl: "https://x.com/search?q="
+    },
+    x: {
+        name: "Twitter",
+        url: "https://x.com/",
+        searchurl: "https://x.com/search?q="
     },
     me: {
         name: "Vaibhav - Personal Website",
@@ -102,17 +107,10 @@ export const COMMANDS: {[CommandNames] : CommandType} = {
         url: "https://google.com/",
         searchurl: "https://www.google.com/search?q="
     },
-    wp: {
-        name: "Washington Post",
-        url: "https://www.washingtonpost.com/regional/"
-    },
-    wsj: {
-        name: "Wall Street Journal",
-        url: "https://www.wsj.com/"
-    },
-    cnn: {
-        name: "CNN",
-        url: "https://www.cnn.com/"
+    qq: {
+        name: "Perplexity",
+        url: "https://www.perplexity.ai/",
+        searchurl: "https://www.perplexity.ai/?q="
     },
     tr: {
         name: "HooHacks Trello Board",
