@@ -95,7 +95,7 @@ export const COMMANDS: {[CommandNames] : CommandType} = {
     },
     me: {
         name: "Rithik.me - Personal Website",
-        url: "https://rithik.me/me",
+        url: "https://avaibh.github.io/me",
     },
     g: {
         name: "Google",
