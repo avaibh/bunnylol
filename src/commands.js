@@ -94,8 +94,8 @@ export const COMMANDS: {[CommandNames] : CommandType} = {
         searchurl: "https://twitter.com/search?q="
     },
     me: {
-        name: "Rithik.me - Personal Website",
-        url: "https://avaibh.github.io/me",
+        name: "Vaibhav - Personal Website",
+        url: "https://avaibh.github.io",
     },
     g: {
         name: "Google",
